@@ -5,7 +5,7 @@ Software Engineering Student at YouCode
 
 ---
 
-## 🚀 Currently Working On
+## Currently Working On
 
 I am currently developing a rendezvous (appointment) web application aimed at reducing overcrowding issues in Morocco.  
 The platform allows users to:
@@ -17,14 +17,14 @@ The platform allows users to:
 
 The goal is to help users avoid long queues and unnecessary waiting time.
 
-For self-improvement, I am learning how deployment works and exploring cloud and hosting platforms such as AWS, render and Vercel.  
+For self-improvement, I am learning how deployment works and exploring cloud and hosting platforms such as AWS, render, Vercel.  
 I am working toward being able to deploy complete full-stack web applications independently.
 
 I am also learning Vue.js and Nuxt.js to strengthen my frontend and full-stack development skills, applying what I learn to upcoming real-world projects.
 
 ---
 
-## 👨‍💻 About Me  
+## About Me  
 
 I am a software engineering student with a strong interest in backend development and web application architecture.  
 I build structured and maintainable web applications, focusing on clean backend logic and reliable database integration.
@@ -47,7 +47,7 @@ Currently, I am strengthening my skills in API design, authentication systems, a
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 Below are academic and personal projects that represent my current technical skills and practical experience.
 
@@ -70,37 +70,29 @@ A frontend project that consumes external APIs to display dynamic game data with
 
 ### WorkSphere – Virtual Workspace
 A frontend project that simulates a virtual workspace where users can assign, unassign, modify, or delete workers.  
-Data is stored locally using browser local storage, with a responsive and interactive interface.  
+positions are stored locally using browser local storage, with a responsive and interactive interface.  
 **Technologies:** HTML, JavaScript, Tailwind CSS  
 
 ---
 
-## 📎 Pinned Repositories
+## Pinned Repositories
 
-- **Debriefing System:**  
-  https://github.com/elgmouriabderrahim/debriefing-system-laravel  
+- [**Debriefing System**](https://github.com/elgmouriabderrahim/debriefing-system-laravel)  
 
-- **Blog Platform:**  
-  https://github.com/elgmouriabderrahim/blogSpace  
+- [**Blog Platform**](https://github.com/elgmouriabderrahim/blogSpace)  
 
-- **Typing Game:**  
-  https://github.com/elgmouriabderrahim/brief4-Typing-Speed-Game  
+- [**Typing Game**](https://github.com/elgmouriabderrahim/brief4-Typing-Speed-Game)  
 
-- **Memory Game:**  
-  https://github.com/elgmouriabderrahim/brief4-Memory_Game  
+- [**Memory Game**](https://github.com/elgmouriabderrahim/brief4-Memory_Game)  
 
-- **PixelQuest:**  
-  Repository: https://github.com/elgmouriabderrahim/Brief5-PixelQuest  
-  Figma Design: https://www.figma.com/design/OJWkCTXiNmKfANeX6CiJjI/brief5?node-id=0-1&p=f  
-  Live Demo: https://elgmouriabderrahim.github.io/Brief5-PixelQuest/  
+- [**PixelQuest – Games Catalog Website**](https://github.com/elgmouriabderrahim/Brief5-PixelQuest)  
+  - [Figma Design](https://www.figma.com/design/OJWkCTXiNmKfANeX6CiJjI/brief5?node-id=0-1&p=f)  
+  - [Live Demo](https://elgmouriabderrahim.github.io/Brief5-PixelQuest/)  
 
-- **WorkSphere:**  
-  Repository: https://github.com/elgmouriabderrahim/brief6-WorkSphere  
-  Live Demo: https://elgmouriabderrahim.github.io/brief6-WorkSphere  
+- [**WorkSphere – Virtual Workspace**](https://github.com/elgmouriabderrahim/brief6-WorkSphere)  
+  - [Live Demo](https://elgmouriabderrahim.github.io/brief6-WorkSphere)  
 
----
-
-## 📬 Contact
+## Contact
 
 **LinkedIn:** https://www.linkedin.com/in/elgmouriabderrahim  
 **Email:** ea.officialbox@gmail.com  
