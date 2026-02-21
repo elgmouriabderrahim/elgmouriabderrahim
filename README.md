@@ -95,5 +95,4 @@ positions are stored locally using browser local storage, with a responsive and 
 ## Contact
 
 **LinkedIn:** https://www.linkedin.com/in/elgmouriabderrahim  
-**Email:** ea.officialbox@gmail.com  
-**GitHub:** https://github.com/elgmouriabderrahim  
+**Email:** ea.officialbox@gmail.com
