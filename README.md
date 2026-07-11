@@ -1,98 +1,141 @@
-# Abderrahim Elgmouri  
+# Hi there 👋 I'm Abderrahim Elgmouri
 
-## Full-Stack Developer (Backend Focus)  
-Software Engineering Student at YouCode  
+## Full-Stack Web Developer | Laravel • Vue.js • React
 
----
-
-## Currently Working On
-
-I am currently developing a rendezvous (appointment) web application aimed at reducing overcrowding issues in Morocco.  
-The platform allows users to:
-
-- Post and explore services  
-- Contact service providers and cabinets  
-- Book appointments  
-- View locations and working hours  
-
-The goal is to help users avoid long queues and unnecessary waiting time.
-
-For self-improvement, I am learning how deployment works and exploring cloud and hosting platforms such as AWS, render, Vercel.  
-I am working toward being able to deploy complete full-stack web applications independently.
-
-I am also learning Vue.js and Nuxt.js to strengthen my frontend and full-stack development skills, applying what I learn to upcoming real-world projects.
+Software Engineering Student at **YouCode (UM6P)** with a strong passion for building modern, scalable, and maintainable web applications.
 
 ---
 
-## About Me  
+## 👨‍💻 About Me
 
-I am a software engineering student with a strong interest in backend development and web application architecture.  
-I build structured and maintainable web applications, focusing on clean backend logic and reliable database integration.
+I'm a full-stack web developer with a strong focus on backend development using **Laravel** while continuously expanding my frontend expertise with **Vue.js** and **React**.
 
-Currently, I am strengthening my skills in API design, authentication systems, and scalable backend practices.
+I enjoy designing clean application architectures, building RESTful APIs, integrating databases, and developing responsive user interfaces. During my internship, I gained hands-on experience working in a professional development environment, collaborating with teams, using Git workflows, and contributing to real-world web applications.
 
----
-
-## 🛠 Technical Skills
-
-**Programming Languages:** PHP, JavaScript, SQL  
-
-**Frontend Development:** HTML5, CSS3, Tailwind CSS, Vue.js  
-
-**Backend Development:** PHP, MySQL, PostgreSQL  
-
-**Tools & Workflow:** Git, GitHub, Docker, Jira, Figma  
-
-**Core Concepts:** MVC Architecture, REST API Fundamentals, Authentication & Authorization, Version Control  
+I'm always looking to improve my skills by learning modern technologies and best practices in software engineering.
 
 ---
 
-## Featured Projects
+## 🚀 Tech Stack
 
-Below are academic and personal projects that represent my current technical skills and practical experience.
+### Languages
+- PHP
+- JavaScript
+- SQL
 
-### Debriefing System
-A backend-oriented academic project built with Laravel, implementing authentication, role-based access control, and structured CRUD operations with PostgreSQL integration.  
-**Technologies:** Laravel, PostgreSQL, JavaScript, HTML, Tailwind CSS  
+### Frontend
+- HTML5
+- CSS3
+- Tailwind CSS
+- Vue.js
+- React
+- Blade
 
-### Blog Platform
-A web application combining a JavaScript-based frontend with a PHP backend to manage posts and user authentication.  
-Includes CRUD functionality, database integration, and a layered structure.  
-**Technologies:** PHP, MySQL, JavaScript, HTML, Tailwind CSS  
+### Backend
+- Laravel
+- REST APIs
+- Authentication & Authorization
+- MySQL
+- PostgreSQL
 
-### Responsive Games (Typing Game & Memory Game)
-Frontend projects focused on DOM manipulation, user interaction logic, and responsive UI design.  
-**Technologies:** HTML, JavaScript, Tailwind CSS  
+### Tools
+- Git
+- GitHub
+- Docker
+- Postman
+- Jira
+- Figma
+- Vite
 
-### PixelQuest – Games Catalog Website
-A frontend project that consumes external APIs to display dynamic game data with responsive design and interactive filtering features.  
-**Technologies:** HTML, JavaScript, Tailwind CSS  
-
-### WorkSphere – Virtual Workspace
-A frontend project that simulates a virtual workspace where users can assign, unassign, modify, or delete workers.  
-positions are stored locally using browser local storage, with a responsive and interactive interface.  
-**Technologies:** HTML, JavaScript, Tailwind CSS  
+### Concepts
+- MVC Architecture
+- RESTful API Development
+- Database Design
+- Authentication & Authorization
+- Version Control
+- Agile Development
+- Responsive Design
 
 ---
 
-## Pinned Repositories
+## 🌟 Featured Projects
 
-- [**Debriefing System**](https://github.com/elgmouriabderrahim/debriefing-system-laravel)  
+### 🚀 SmartQueue – Appointment Management Platform
 
-- [**Blog Platform**](https://github.com/elgmouriabderrahim/blogSpace)  
+A full-stack web application developed to reduce overcrowding and waiting times in Morocco by allowing citizens to discover institutions, browse services, and book appointments online.
 
-- [**Typing Game**](https://github.com/elgmouriabderrahim/brief4-Typing-Speed-Game)  
+**Main Features**
+- User authentication
+- Appointment booking
+- Institution & service management
+- Queue management
+- Interactive maps
+- Notifications
+- Responsive dashboard
 
-- [**Memory Game**](https://github.com/elgmouriabderrahim/brief4-Memory_Game)  
+**Tech Stack**
+Laravel • PostgreSQL • Vue.js • Tailwind CSS • Docker
 
-- [**PixelQuest – Games Catalog Website**](https://github.com/elgmouriabderrahim/Brief5-PixelQuest)  
-  - [Figma Design](https://www.figma.com/design/OJWkCTXiNmKfANeX6CiJjI/brief5?node-id=0-1&p=f)  
-  - [Live Demo](https://elgmouriabderrahim.github.io/Brief5-PixelQuest/)  
+---
 
-- [**WorkSphere – Virtual Workspace**](https://github.com/elgmouriabderrahim/brief6-WorkSphere)  
-  - [Live Demo](https://elgmouriabderrahim.github.io/brief6-WorkSphere)  
+### 📚 Debriefing System
 
-## Contact
+A Laravel-based educational platform implementing authentication, role-based authorization, CRUD operations, and PostgreSQL integration.
 
-**LinkedIn:** https://www.linkedin.com/in/elgmouriabderrahim  
-**Email:** ea.officialbox@gmail.com
+**Tech Stack**
+Laravel • PostgreSQL • Tailwind CSS • JavaScript
+
+---
+
+### 📝 Blog Platform
+
+A PHP MVC application featuring user authentication, CRUD operations, database integration, and clean project architecture.
+
+**Tech Stack**
+PHP • MySQL • JavaScript • HTML • Tailwind CSS
+
+---
+
+### 🎮 PixelQuest – Games Catalog
+
+A responsive frontend application that consumes a public games API with search, filtering, and dynamic content.
+
+**Tech Stack**
+JavaScript • HTML • Tailwind CSS
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Laravel
+- React
+- Vue.js & Nuxt.js
+- Docker
+- CI/CD
+- AWS
+- Cloud Deployment
+- Testing & Software Architecture
+
+---
+
+## 📌 Pinned Repositories
+
+- 🚀 SmartQueue
+- 📚 Debriefing System
+- 📝 Blog Platform
+- 🎮 PixelQuest
+- 💼 Portfolio
+
+---
+
+## 📫 Connect With Me
+
+**LinkedIn**  
+https://www.linkedin.com/in/elgmouriabderrahim
+
+**Email**  
+ea.officialbox@gmail.com
+
+---
+
+> *"Clean code, scalable architecture, and continuous learning."*
