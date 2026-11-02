@@ -1,141 +1,79 @@
-# Hi there 👋 I'm Abderrahim Elgmouri
+# Abderrahim Elgmouri
 
-## Full-Stack Web Developer | Laravel • Vue.js • React
+**Full-Stack Developer | Laravel, React, Vue.js, Python**
 
-Software Engineering Student at **YouCode (UM6P)** with a strong passion for building modern, scalable, and maintainable web applications.
+Full-Stack Developer currently pursuing an engineering track in Artificial Intelligence at YouCode (UM6P).
 
----
+I build web applications with a focus on backend development, REST API design, database management, and frontend integration. I work primarily with Laravel, PHP, JavaScript, React, Vue.js, and Python.
 
-## 👨‍💻 About Me
+I enjoy understanding how systems work, designing maintainable application architectures, and solving practical development problems.
 
-I'm a full-stack web developer with a strong focus on backend development using **Laravel** while continuously expanding my frontend expertise with **Vue.js** and **React**.
+## Technical Skills
 
-I enjoy designing clean application architectures, building RESTful APIs, integrating databases, and developing responsive user interfaces. During my internship, I gained hands-on experience working in a professional development environment, collaborating with teams, using Git workflows, and contributing to real-world web applications.
+**Languages**
+- PHP, JavaScript, Python, SQL
 
-I'm always looking to improve my skills by learning modern technologies and best practices in software engineering.
+**Frontend**
+- React.js, Vue.js, HTML5, CSS3, Tailwind CSS, Blade
 
----
+**Backend**
+- Laravel, FastAPI, REST APIs, Authentication & Authorization
 
-## 🚀 Tech Stack
+**Databases**
+- PostgreSQL, MySQL, MongoDB
 
-### Languages
-- PHP
-- JavaScript
-- SQL
+**Tools & Technologies**
+- Git, GitHub, Docker, Postman, Swagger, Jira, Vite
 
-### Frontend
-- HTML5
-- CSS3
-- Tailwind CSS
-- Vue.js
-- React
-- Blade
+**Development Practices**
+- MVC Architecture, Object-Oriented Programming, Database Design, API Integration, Version Control, Agile Development
 
-### Backend
-- Laravel
-- REST APIs
-- Authentication & Authorization
-- MySQL
-- PostgreSQL
+## Selected Projects
 
-### Tools
-- Git
-- GitHub
-- Docker
-- Postman
-- Jira
-- Figma
-- Vite
+### SmartQueue — Appointment & Queue Management Platform
 
-### Concepts
-- MVC Architecture
-- RESTful API Development
-- Database Design
-- Authentication & Authorization
-- Version Control
-- Agile Development
-- Responsive Design
+A full-stack application designed to simplify appointment scheduling and queue management for public institutions.
 
----
+- Developed an API-first backend architecture.
+- Implemented authentication and role-based access control.
+- Built appointment booking and queue management features.
+- Integrated notifications, service management, and analytics.
 
-## 🌟 Featured Projects
+**Technologies:** Laravel 12, Vue.js, PostgreSQL, Sanctum, Docker, Tailwind CSS.
 
-### 🚀 SmartQueue – Appointment Management Platform
+### EasyColoc — Shared Expenses Management
 
-A full-stack web application developed to reduce overcrowding and waiting times in Morocco by allowing citizens to discover institutions, browse services, and book appointments online.
+A web application for managing shared expenses and reimbursements between roommates.
 
-**Main Features**
-- User authentication
-- Appointment booking
-- Institution & service management
-- Queue management
-- Interactive maps
-- Notifications
-- Responsive dashboard
+- Implemented user invitations and role-based access.
+- Developed expense tracking and reimbursement workflows.
+- Built interfaces for administrators, owners, and members.
 
-**Tech Stack**
-Laravel • PostgreSQL • Vue.js • Tailwind CSS • Docker
+**Technologies:** Laravel, PHP, MySQL, Blade, Tailwind CSS.
 
----
+### Debriefing System — Educational Management Platform
 
-### 📚 Debriefing System
+A web application for managing educational activities, classes, skills, and sprints.
 
-A Laravel-based educational platform implementing authentication, role-based authorization, CRUD operations, and PostgreSQL integration.
+- Implemented role-based authentication and authorization.
+- Developed CRUD operations and database integration.
+- Structured the application using Laravel MVC architecture.
 
-**Tech Stack**
-Laravel • PostgreSQL • Tailwind CSS • JavaScript
+**Technologies:** Laravel, PostgreSQL, Blade, Tailwind CSS.
 
----
+## Current Focus
 
-### 📝 Blog Platform
+- Improving software architecture and code quality.
+- Deepening my knowledge of React and Laravel.
+- Learning automated testing and CI/CD practices.
+- Exploring cloud deployment and AI integration.
 
-A PHP MVC application featuring user authentication, CRUD operations, database integration, and clean project architecture.
+## Education
 
-**Tech Stack**
-PHP • MySQL • JavaScript • HTML • Tailwind CSS
+**YouCode (UM6P)**  
+Engineering Track in Artificial Intelligence | 2025 – Present
 
----
+## Contact
 
-### 🎮 PixelQuest – Games Catalog
-
-A responsive frontend application that consumes a public games API with search, filtering, and dynamic content.
-
-**Tech Stack**
-JavaScript • HTML • Tailwind CSS
-
----
-
-## 📚 Currently Learning
-
-- Advanced Laravel
-- React
-- Vue.js & Nuxt.js
-- Docker
-- CI/CD
-- AWS
-- Cloud Deployment
-- Testing & Software Architecture
-
----
-
-## 📌 Pinned Repositories
-
-- 🚀 SmartQueue
-- 📚 Debriefing System
-- 📝 Blog Platform
-- 🎮 PixelQuest
-- 💼 Portfolio
-
----
-
-## 📫 Connect With Me
-
-**LinkedIn**  
-https://www.linkedin.com/in/elgmouriabderrahim
-
-**Email**  
-ea.officialbox@gmail.com
-
----
-
-> *"Clean code, scalable architecture, and continuous learning."*
+- **LinkedIn:** [linkedin.com/in/elgmouriabderrahim](https://www.linkedin.com/in/elgmouriabderrahim)
+- **Email:** ea.officialbox@gmail.com
