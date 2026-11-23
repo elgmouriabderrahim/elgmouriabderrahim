@@ -11,7 +11,7 @@
   <a href="mailto:ea.officialbox@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/elgmouriabderrahim">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -39,31 +39,80 @@ My main focus is backend development, API architecture, database management, and
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,js,python,sql" />
+  <img src="https://skillicons.dev/icons?i=c,php,js,python" />
 </p>
 
 ### Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,vue,html,css,tailwind,bootstrap,sass,alpine,vite" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white" />
 </p>
 
 ### Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,fastapi,php" />
+  <img src="https://skillicons.dev/icons?i=laravel,fastapi,nodejs,php" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
 </p>
 
-### Tools & Development Environment
+<p>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+</p>
+
+### AI, Machine Learning & Data Science
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
+
+### DevOps, Infrastructure & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,idea,postman,vercel" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
+
+### Project Management & Design
+
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
 </p>
 
 ### Software Engineering
@@ -146,15 +195,39 @@ Engineering Track in Artificial Intelligence
 
 ---
 
+## `$ github-trophies`
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=elgmouriabderrahim&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="100%" />
+</p>
+
+---
+
 ## `$ github-stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=elgmouriabderrahim&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elgmouriabderrahim&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=elgmouriabderrahim&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## `$ top-contributed-repositories`
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=elgmouriabderrahim&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## `$ random-dev-quote`
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---
@@ -166,9 +239,15 @@ I'm always interested in connecting with developers, exchanging ideas, collabora
 <p align="center">
   <a href="https://linkedin.com/in/elgmouriabderrahim">LinkedIn</a> ·
   <a href="mailto:ea.officialbox@gmail.com">Email</a> ·
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a>
+  <a href="https://github.com/elgmouriabderrahim">GitHub</a>
 </p>
 
 <p align="center">
   <i>"Great software is built through curiosity, continuous learning, and engineering discipline."</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elgmouriabderrahim&style=flat&color=00FFFF&label=PROFILE+VIEWS" />
 </p>
